@@ -1,0 +1,8 @@
+Title,First,Last,Gender,PIN,Darkest Secret,Favourite Colour,Phone No,Email,IP Address,Commonalities
+Miss,Agnes,Scarlett,F,0,Murderer,Red,01234 567890,as@example.com,10.0.0.122,A
+Rev,Benedict,Green,M,2580,Atheist,Green,01234 00001,bg@example.com,192.168.0.45,B
+Colonel,Charles,Mustard,M,1234,Scared of fish,Yellow,1235 00001,cm@example.com,192.168.0.45,B
+Prof,Donald,Plum,M,3690,Easts apples whole,Purple,1236 00001,dp@example.com,192.168.0.50,
+Mrs,Elizabeth,White,F,1470,Likes fast food,White,1237 00001,ew@example.com,10.0.0.89,
+Dr,Frederick,Black,M,1111,Deceased,Black,01234 567890,fb@example.com,192.168.0.57,A
+Dr,Frederick,Black,M,1111,Deceased,Black,01234 567890,fb@example.com,192.168.0.57,Duplicate
